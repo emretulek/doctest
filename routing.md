@@ -130,7 +130,7 @@ Router::group(['prefix' => 'admin'], function(){
 Alt dizinde çalışacak dosyalar için namespace belirlenebilir, prefix ile kullanımına örnek
 
 ```php
-Router::group(['prefix' =&gt; 'panel', 'namespace' =&gt; 'admin'], function(){
+Router::group(['prefix' => 'panel', 'namespace' => 'admin'], function(){
 //adres satırında panel/dashboard
 //Controller\Admin\Dashboard altındaki controller çalışacaktır.
 Router::get('dashboard', 'dashboard@methodeName');
