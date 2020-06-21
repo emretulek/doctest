@@ -4,7 +4,7 @@
 
 [Routing](https://github.com/emretulek/doctest/blob/master/routing.md)
 
-Model
+[Model](https://github.com/emretulek/doctest/blob/master/model.md)
 
 View
 

@@ -20,12 +20,6 @@ class UserModel extends Model
     {
         return $this->DB::getRow("select * from users where userName = ?", [$userName]);
     }
-    
-    //DB sınıfı static
-    public function findFromUserName2($userName)
-    {
-        return DB::getRow("select * from users where userName = ?", [$userName]);
-    }
 }
 ```
 
