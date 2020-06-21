@@ -29,19 +29,19 @@
 #### Kullanım Örnekleri
 
 ```php
-Router::get('porfile', functions(){
+Router::get('porfile', function(){
     echo 'Şuan profil sayfasını görüntülüyorsunuz.';
 });
 //veya
-Router::get('porfile', functions(){
+Router::get('porfile', function(){
     page('profile'); //View/page/profile.php
 });
 //veya zorunlu parametre ile kullanım
-Router::get('porfile/{id}', functions($id){
+Router::get('porfile/{id}', function($id){
     page('profile', ['id' => $id]); //View/page/profile.php
 });
  //veya opsiyonel parametre ile kullanım
-Router::get('porfile/{id?}', functions($id){
+Router::get('porfile/{id?}', function($id){
     page('profile', ['id' => $id]); //View/page/profile.php
 });
 ```
@@ -69,10 +69,10 @@ public function methodeName($string)
 ```
 ### Pattern
 >  {id} => 0-9 pozitif,
->     {int} => 0-9,
->     {string} => yazı karakterleri
->     {*} => her hangi birşey
->     ? => {id?} => opsiyonal, zorunlu olmayan parametre
+>    {int} => 0-9,
+>    {string} => yazı karakterleri
+>    {*} => her hangi birşey
+>    ? => {id?} => opsiyonal, zorunlu olmayan parametre
 
 
 
@@ -143,7 +143,7 @@ Router::get('dashboard', 'dashboard@methodeName');
 404 ve 405 için özel sayfalar belirlenmesini sağlar
 
 ```php
-Router::error(404, function(){
+Router::errors(404, function(){
     page("custom-404");
 });
 ```
