@@ -1,6 +1,6 @@
 # SIMPLE FRAMEWORK
 
-Configuration
+[Configuration](https://github.com/emretulek/doctest/blob/master/configuration.md)
 
 [Routing](https://github.com/emretulek/doctest/blob/master/routing.md)
 
