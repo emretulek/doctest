@@ -6,7 +6,7 @@
 
 [Model](https://github.com/emretulek/doctest/blob/master/model.md)
 
-View
+[View](https://github.com/emretulek/doctest/blob/master/view.md)
 
 Controller
 

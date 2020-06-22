@@ -210,7 +210,7 @@ viewPath
 $view = new View();
 $view->path("errors/custom_error_page")->render();
 //veya
-page("errors/custom_error_page");
+viewPath("errors/custom_error_page");
 ```
 
 **template**
