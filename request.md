@@ -3,26 +3,26 @@
 Gelen http isteklerine daha hızlı ve daha güvenli erişim sağlar.
 
 - [path](#path)
-- requestUri
-- matchUri
-- currentUrl
-- baseUrl
-- segments
-- request
-- get
-- post
-- files
-- raw
-- method
-- isAjax
-- scheme
-- host
-- local
-- userAgent
-- referer
-- ip
-- forwardedIp
-- server
+- [requestUri](#requestUri)
+- [matchUri](#matchUri)
+- [currentUrl](#currentUrl)
+- [baseUrl](#baseUrl)
+- [segments](#segments)
+- [request](#request)
+- [get](#get)
+- [post](#post)
+- [files](#files)
+- [raw](#raw)
+- [method](#method)
+- [isAjax](#isAjax)
+- [scheme](#scheme)
+- [host](#host)
+- [local](#local)
+- [userAgent](#userAgent)
+- [referer](#referer)
+- [ip](#ip)
+- [forwardedIp](#forwardedIp)
+- [server](#server)
 
 
 

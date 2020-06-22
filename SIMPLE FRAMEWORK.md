@@ -10,7 +10,7 @@
 
 [Controller](https://github.com/emretulek/doctest/blob/master/controller.md)
 
-Request
+[Request](https://github.com/emretulek/doctest/blob/master/request.md)
 
 Database
 
