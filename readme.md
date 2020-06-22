@@ -8,7 +8,7 @@
 
 [View](https://github.com/emretulek/doctest/blob/master/view.md)
 
-Controller
+[Controller](https://github.com/emretulek/doctest/blob/master/controller.md)
 
 Request
 
