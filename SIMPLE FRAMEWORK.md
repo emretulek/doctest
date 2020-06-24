@@ -12,7 +12,7 @@
 
 [Request](https://github.com/emretulek/doctest/blob/master/request.md)
 
-Database
+[Database](https://github.com/emretulek/doctest/blob/master/database.md)
 
 Config
 
