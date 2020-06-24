@@ -149,7 +149,7 @@ DB::pdo()->exec("delete from Table where status = 'delete'");
 Aktif PDOStatement nesnesini döndürür, üzerinden diğer sınıf özellikleri kullanılabilir.
 
 ```php
-DB::stm()->lastInsertId();
+DB::stm()->rowCount();
 ```
 
 
