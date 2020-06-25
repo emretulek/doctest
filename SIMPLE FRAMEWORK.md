@@ -18,7 +18,7 @@
 
 [Validation](https://github.com/emretulek/doctest/blob/master/validation.md)
 
-Cookie
+[Cookie](https://github.com/emretulek/doctest/blob/master/cookie.md)
 
 Session
 

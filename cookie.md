@@ -4,13 +4,10 @@ Cookie oluşturma, okuma ve silme işlemleri.
 
 ### Methods
 
-Cookie::set($key, $vaue, $lifetime = 24, $path = '/', $domain = null, $secure = false, $http_only = true, $same_site = 'strict')
-
-Cookie::get($key)
-
-Cookie::remove($key)
-
-Cookie::destroy()
+- Cookie::set($key, $vaue, $lifetime = 24, $path = '/', $domain = null, $secure = false, $http_only = true, $same_site = 'strict')
+- Cookie::get($key)
+- Cookie::remove($key)
+- Cookie::destroy()
 
 
 
