@@ -14,7 +14,7 @@
 
 [Database](https://github.com/emretulek/doctest/blob/master/database.md)
 
-Config
+[Config](https://github.com/emretulek/doctest/blob/master/config.md)
 
 Validation
 
