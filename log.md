@@ -45,15 +45,17 @@ ENGINE=InnoDB;
 
 ### Tüm methodların kullanımı aynıdıri aralarında ki fark log tipini değişmesidir.
 
-Başarılı şekilde log yazılabilirse true aksi halde false döndürür.  **$data serialize edilerek yazılır.**
+Başarılı şekilde log yazılabilirse true aksi halde false döndürür.  **$data array veya object ise serialize edilerek yazılır.**
 
 ```php
 Logger::debug("$user isimli kullanıcı sisteme giriş yaptı.", $user_info);
+Logger::error("xxx api bağlantısı yapılamadı.", $error);
 ```
 
 Logger.log
 
 ```verilog
 08.20.2020 21:20:19	[DEBUG]	xxx isimli kullanıcı sisteme giriş yaptı.	a:1:{s:8:"username";s:3:"xxx";}
+08.20.2020 21:22:30	[ERROR]	xxx api bağlantısı yapılamadı.	xxx api connection timeout.
 ```
 
