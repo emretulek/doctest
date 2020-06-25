@@ -16,7 +16,7 @@
 
 [Config](https://github.com/emretulek/doctest/blob/master/config.md)
 
-Validation
+[Validation](https://github.com/emretulek/doctest/blob/master/validation.md)
 
 Cookie
 
