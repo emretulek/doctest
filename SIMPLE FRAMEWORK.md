@@ -20,7 +20,7 @@
 
 [Cookie](https://github.com/emretulek/doctest/blob/master/cookie.md)
 
-Session
+[Session](https://github.com/emretulek/doctest/blob/master/session.md)
 
 Cache
 
