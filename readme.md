@@ -22,9 +22,9 @@
 
 [Session](https://github.com/emretulek/doctest/blob/master/session.md)
 
-Cache
+[Cache](https://github.com/emretulek/doctest/blob/master/cache.md)
 
-Log
+[Log](https://github.com/emretulek/doctest/blob/master/log.md)
 
 Auth
 
