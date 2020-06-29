@@ -3,13 +3,18 @@
 ## Gereksinimler
 
 - PHP >= 7.4
-- Fileinfo PHP extension
+
 - Mbstring PHP Extension
+
 - OpenSSL PHP Extension
+
 - PDO PHP Extension
+
 - Bzip2 PHP Extension
 
+  
 
+## Sınıf ve yapılar
 
 - [Configuration](https://github.com/emretulek/doctest/blob/master/configuration.md)
 - [Routing](https://github.com/emretulek/doctest/blob/master/routing.md)
