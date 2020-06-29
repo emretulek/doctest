@@ -1,4 +1,4 @@
-- # SIMPLE FRAMEWORK
+# SIMPLE FRAMEWORK
 
   ## Gereksinimler
 
