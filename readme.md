@@ -33,7 +33,7 @@
   - [Log](https://github.com/emretulek/doctest/blob/master/log.md)
   - [Auth](https://github.com/emretulek/doctest/blob/master/auth.md)
   - [Hook](https://github.com/emretulek/doctest/blob/master/hook.md)
-  - Language
-  - Csrf
-  - Crypt
+  - [Language](https://github.com/emretulek/doctest/blob/master/language.md)
+  - [Csrf](https://github.com/emretulek/doctest/blob/master/csrf.md)
+  - [Crypt](https://github.com/emretulek/doctest/blob/master/crypt.md)
   - Helpers
